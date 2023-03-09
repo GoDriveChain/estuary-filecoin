@@ -1,7 +1,7 @@
 # estuary-filecoin
-Provides an interface using estuary's API into FileCoin's blockchain
+This is an API interface that allows seamless integration between estuary and FileCoin's blockchain. There are two projects that utilize the estuary API to enable the secure and efficient uploading of public data onto FileCoin and pin it to IPFS.
 
-Two projects utilize estuary's API to provide a reliable way to upload public data onto FileCoin and pin it to IPFS. The projects help to demonstrate uploading and downloading public files to and from FileCoin's blockchain. The Python project can execute through the command-line. The C# project can execute through a desktop graphical user interface (GUI). 
+These projects serve as excellent examples of how to upload and download public files from FileCoin's blockchain. The Python project runs through the command line interface while the C# project has a desktop GUI.
 
 
 
